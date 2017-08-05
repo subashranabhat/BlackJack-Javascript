@@ -91,4 +91,5 @@ function displayCard(randomCard){
 }
 
 function sumTotal(){
+	
 }
